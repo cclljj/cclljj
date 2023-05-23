@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ling-Jyh Chen's Github Page 👋
+
+![LJ](https://komarev.com/ghpvc/?username=cclljj)
 
 <!--
 **cclljj/cclljj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cclljj&hide=contribs,prs)
+![Ling-Jyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cclljj&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cclljj)](https://github.com/anuraghazra/github-readme-stats)
 
