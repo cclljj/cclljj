@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AS-AIGC&repo=AS-AIGFAQ"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AS-AIGC&repo=AS-AIGVTS"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LearnCIOT&repo=LearnCIOT.github.io"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=IISNRL&repo=pyCIOT"/>
 
 ## LJ Stats
 
